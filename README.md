@@ -8,7 +8,7 @@ Sentences_list
 
 party_list
 
-![23](https://github.com/Arminjoyaian/Assignment6/assets/137637877/3a0b0520-1fa5-4b6c-8c09-3337b4fac99b)
+![11](https://github.com/Arminjoyaian/Assignment6/assets/137637877/949a5330-4121-4903-8e9b-2bc6a508bef9)
 
 add_list
 
